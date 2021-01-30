@@ -44,10 +44,20 @@
 
    ##  4. Manikiran 
   Manikaran is 45 km. from Kullu. Manikaran lies in the Parvati valley of Kullu district. The spring are situated near the bank of Parbati river. These are confined to several groups of hot water springs emerging at various locations spreading upto a distance of about 1.3 kms. along the river from the old bridge to Brahmaganga. The springs at Manikaran come out to surface with pressure and are very hot. There is no sulphur or iron mixed in the waters, but it is said to be radio active. The water of these springs is so much hot that pulses ( dal ), rice, vegetables etc. can be boiled and cooked in it.
-  
+
   | Location | Hours | Price |
   | --- | --------- | ---|
   | Manikiran | 9 | 4000 |
+
+  ***
+
+  >"If there's a book that you want to read, but it hasn't been written yet, then you must write it."
+  *Toni Morrison*
+
+  >"A word after a word after a word is power."
+  *Margaret Atwood*
+
+
 
 
 
