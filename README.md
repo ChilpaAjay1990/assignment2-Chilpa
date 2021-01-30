@@ -23,7 +23,7 @@
 
   ##  1. Solang valley
 
-  ![Solangvalley](Images/Sollang valley.jpg)
+  ![Solangvalley](Images/Sollangvalley.jpg)
 
   Solang Valley is nestled away between the Beas Kund and Solang Village. The valley is famous among tourists for its stunning views of snow-capped mountains and magnificent glaciers that attract ski fanatics from all over the world.
 
