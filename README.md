@@ -58,6 +58,25 @@
   >"A word after a word after a word is power."
   *Margaret Atwood*
 
+***
+
+# Language
+>Java is a class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible. It is a general-purpose programming language intended to let application developers write once, run anywhere.
+
+Quick link <https://en.wikipedia.org/wiki/Java_(programming_language>
+
+```
+public class HelloWorld
+{
+	public static void main(String[] args) {
+		System.out.println("Hello World!");
+	}
+}
+
+```
+Quick link <https://www.cs.utexas.edu/~scottm/cs307/javacode/codeSamples/HelloWorld.java>
+
+
 
 
 
