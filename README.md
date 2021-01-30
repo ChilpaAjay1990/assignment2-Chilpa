@@ -11,6 +11,8 @@
   1. Insert the Debit/Credit Card
   2. Enter Pin
   3. Enter Amount
-  4. Then click ok 
+  4. Then click ok
+  * Then takeout the cash 
+  * Finally donnot forget to take your card 
 
    
