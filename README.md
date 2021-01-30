@@ -15,6 +15,5 @@
   * Then takeout the cash 
   * Finally donnot forget to take your card 
 
-  [AboutMe](https://github.com/ChilpaAjay1990/assignment2-Chilpa/blob/main/AboutMe.md)
 
    
