@@ -17,4 +17,17 @@
 
   [AboutMe](https://github.com/ChilpaAjay1990/assignment2-Chilpa/blob/main/AboutMe.md)
 
+  ***
+
+  # My Favourite Places 
+
+  ##  1. Solang valley
+  Solang Valley is nestled away between the Beas Kund and Solang Village. The valley is famous among tourists for its stunning views of snow-capped mountains and magnificent glaciers that attract ski fanatics from all over the world.
+
+  | Location | Hours | Price |
+  | --- | --------- | ---|
+  | Manali | 6 | 3000 |
+
+
+
    
