@@ -23,7 +23,7 @@
 
   ##  1. Solang valley
 
-  ![Solangvalley]/Images/Sollang valley.jpg
+  ![Solangvalley](Images/Sollang valley.jpg)
 
   Solang Valley is nestled away between the Beas Kund and Solang Village. The valley is famous among tourists for its stunning views of snow-capped mountains and magnificent glaciers that attract ski fanatics from all over the world.
 
@@ -34,7 +34,8 @@
 
   ##  2. Shimla
 
-  ![Shimla]/Images/shimla.jpg 
+  ![Shimla](/Images/shimla.jpg)
+  
   Snow-capped Himalayan peaks and green pastures surround Shimla, the capital of Himachal Pradesh. Enjoy a heritage walk through Shimla’s Victorian-era architecture, labyrinthine bazaars and lengthy pedestrian shopping mall.
   
   | Location | Hours | Price |
@@ -43,7 +44,7 @@
 
   ##  3. Kasol 
 
-  ![Kasol]/Images/kasol.jpg)
+  ![Kasol](Images/kasol.jpg)
 
   KASOL, A REMOTE VILLAGE SITUATED on the banks of the raging Parvati River between Bhuntar and Manikaran (a religious place for sikhs) in Himachal Pradesh, India, has long served as the main headquarters for backpackers and travelers in the idyllic Parvati Valley.
   
@@ -53,7 +54,7 @@
 
    ##  4. Manikaran 
 
-   ![Manikaran]/Images/Manikaran.jpg)
+   ![Manikaran](Images/Manikaran.jpg)
 
 
   Manikaran is 45 km. from Kullu. Manikaran lies in the Parvati valley of Kullu district. The spring are situated near the bank of Parbati river. These are confined to several groups of hot water springs emerging at various locations spreading upto a distance of about 1.3 kms. along the river from the old bridge to Brahmaganga. The springs at Manikaran come out to surface with pressure and are very hot. There is no sulphur or iron mixed in the waters, but it is said to be radio active. The water of these springs is so much hot that pulses ( dal ), rice, vegetables etc. can be boiled and cooked in it.
